@@ -9,6 +9,7 @@ header{
 }
 
 figure{
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
   width:100%;
 }
